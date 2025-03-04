@@ -4,13 +4,13 @@
 
 <p align='center'>
   A hobbyist programmer, editor and technology evangelist from Czech republic.
-</p>
+
 
 |Column 1 |
 |:-------:|
 |[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#) |
 
-
+</p>
 <p align='center'>
 
   
