@@ -9,6 +9,7 @@
 
 
 <p align='center'>
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/svatopluk-v%C3%ADt/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/SvatoplukVit) [![Bluesky](https://img.shields.io/badge/BSKy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/svatoplukvit.bsky.social)
 
