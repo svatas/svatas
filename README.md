@@ -9,6 +9,9 @@
 
 
 <p align='center'>
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.twitter.com/SvatoplukVit) [![Bluesky](https://img.shields.io/badge/BSKy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/svatoplukvit.bsky.social)
+
   
   <a href="https://www.linkedin.com/in/svatopluk-v%C3%ADt/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,9 +20,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.twitter.com/SvatoplukVit)
-
-[![Bluesky](https://img.shields.io/badge/BSKy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/svatoplukvit.bsky.social)
   
   <a href="https://bsky.app/profile/svatoplukvit.bsky.social">
     <img src="https://img.shields.io/badge/BSKy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
