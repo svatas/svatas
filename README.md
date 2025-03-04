@@ -20,7 +20,7 @@
 
   
   <a href="https://bsky.app/profile/svatoplukvit.bsky.social">
-    <img src="https://img.shields.io/badge/BSKy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" />        
   </a>&nbsp;&nbsp;
   
 </p>
