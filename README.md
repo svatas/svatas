@@ -6,7 +6,7 @@
   A hobbyist programmer, editor and technology evangelist from Czech republic.
 </p>
 
- Column 1 |
+|Column 1 |
 |:-------:|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?locale=cs&username=svatas&show_icons=true&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?locale=en&username=svatas&show_icons=true&theme=transparent)
