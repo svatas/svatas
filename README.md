@@ -10,7 +10,7 @@
 
 <p align='center'>
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.twitter.com/SvatoplukVit) [![Bluesky](https://img.shields.io/badge/BSKy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/svatoplukvit.bsky.social)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/SvatoplukVit) [![Bluesky](https://img.shields.io/badge/BSKy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/svatoplukvit.bsky.social)
 
   
   <a href="https://www.linkedin.com/in/svatopluk-v%C3%ADt/">
