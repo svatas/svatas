@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/svatoplukvit.bsky.social)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.twitter.com/SvatoplukVit)
 
 [![Bluesky](https://img.shields.io/badge/BSKy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/svatoplukvit.bsky.social)
   
