@@ -21,6 +21,7 @@
 
 <p align = "center">
 	<img align = "center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img align = "center" src = "https://github.com/svatas/svatas/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <img align = "right" src="https://komarev.com/ghpvc/?username=svatas&style=for-the-badge&color=orange" alt=""/>
