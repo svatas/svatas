@@ -17,6 +17,3 @@ A hobbyist programmer, editor and technology evangelist from Czech republic.
     <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge">        
   </a>&nbsp;&nbsp;
 </p>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?locale=cs&username=svatas&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?locale=en&username=svatas&show_icons=true&theme=transparent)
