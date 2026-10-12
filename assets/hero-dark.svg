@@ -10,16 +10,18 @@
 <path d="M48 337 H746" fill="none" stroke="#3a514d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="52" y="370" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#a9bcb5">SYSTEMS THINKING. HUMAN PERSPECTIVE.</text>
 <rect x="811" y="52" width="342" height="287" rx="24" fill="#1a2829" stroke="#3a514d"/>
-<path d="M863 104 h50 v52 L982 196" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M863 104 h48 V170 H930" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="863" cy="104" r="6" fill="#ffba8c"/>
-<path d="M1101 104 h-50 v52 L982 196" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1101 104 h-48 V170 H1034" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="1101" cy="104" r="6" fill="#ffba8c"/>
-<path d="M863 287 h50 v-52 L982 196" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M863 287 h48 V222 H930" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="863" cy="287" r="6" fill="#ffba8c"/>
-<path d="M1101 287 h-50 v-52 L982 196" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1101 287 h-48 V222 H1034" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="1101" cy="287" r="6" fill="#ffba8c"/>
-<path d="M982 144 L1034 196 L982 248 L930 196 Z" fill="none" stroke="#c0ed8a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M965 186 L954 196 L965 206 M999 186 L1010 196 L999 206 M987 180 L977 212" fill="none" stroke="#c0ed8a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="930" y="146" width="104" height="100" rx="14" fill="#111b1c" stroke="#c0ed8a"/>
+<rect x="950" y="166" width="64" height="12" rx="3" fill="#c0ed8a"/>
+<rect x="950" y="190" width="46" height="12" rx="3" fill="#a9bcb5"/>
+<rect x="950" y="214" width="64" height="12" rx="3" fill="#c0ed8a"/>
 <text x="846" y="83" font-family="'Courier New', monospace" font-size="16" font-weight="400" fill="#a9bcb5">systems</text>
 <text x="1041" y="83" font-family="'Courier New', monospace" font-size="16" font-weight="400" fill="#a9bcb5">code</text>
 <text x="846" y="317" font-family="'Courier New', monospace" font-size="16" font-weight="400" fill="#a9bcb5">words</text>

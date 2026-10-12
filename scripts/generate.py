@@ -55,13 +55,15 @@ def hero(identity):
         path("M48 337 H746"),
         text(52, 370, "SYSTEMS THINKING. HUMAN PERSPECTIVE.", 18, "muted", mono=True),
     ]
-    # Four routes converge on one point: a bespoke mark for four kinds of work.
+    # Four orthogonal routes meet a stack of modules, without a diamond or slash.
     body += [rect(811, 52, 342, 287, "card", 24, "line")]
     for x, y, dx, dy in [(863, 104, 1, 1), (1101, 104, -1, 1), (863, 287, 1, -1), (1101, 287, -1, -1)]:
-        body += [path(f"M{x} {y} h{dx * 50} v{dy * 52} L982 196", "line", 3), dot(x, y, 6, "warm")]
+        body += [path(f"M{x} {y} h{dx * 48} V{196 - dy * 26} H{982 - dx * 52}", "line", 3), dot(x, y, 6, "warm")]
     body += [
-        path("M982 144 L1034 196 L982 248 L930 196 Z", "accent", 3),
-        path("M965 186 L954 196 L965 206 M999 186 L1010 196 L999 206 M987 180 L977 212", "accent", 3),
+        rect(930, 146, 104, 100, "bg", 14, "accent"),
+        rect(950, 166, 64, 12, "accent", 3),
+        rect(950, 190, 46, 12, "muted", 3),
+        rect(950, 214, 64, 12, "accent", 3),
         text(846, 83, "systems", 16, "muted", mono=True),
         text(1041, 83, "code", 16, "muted", mono=True),
         text(846, 317, "words", 16, "muted", mono=True),
