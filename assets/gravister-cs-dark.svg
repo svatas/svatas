@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="335" viewBox="0 0 1200 335" role="img" aria-labelledby="title desc" xml:lang="cs">
+<title id="title">Gravister</title>
+<desc id="desc">Modularis: Kompozice stránek: skládejte modulární obsah do stránky.; Thematis: Prezentace webu a šablony: dejte webu vlastní vizuální charakter.; Derivis: Základ odvozené šablony: vytvořte výchozí strukturu pro šablonu odvozenou z existující.</desc>
+<rect x="1" y="1" width="1198" height="333" rx="20" fill="#111b1c" stroke="#3a514d"/>
+<text x="32" y="40" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#a9bcb5">GRAVISTER / TŘI JASNÉ ÚLOHY</text>
+<rect x="24" y="66" width="372" height="245" rx="14" fill="#1a2829" stroke="#3a514d"/>
+<text x="46" y="98" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#a9bcb5">01</text>
+<rect x="144" y="104" width="124" height="91" rx="8" fill="#111b1c" stroke="#3a514d"/>
+<rect x="156" y="117" width="100" height="24" rx="4" fill="#c0ed8a"/>
+<rect x="156" y="151" width="44" height="31" rx="4" fill="#3a514d"/>
+<rect x="209" y="151" width="47" height="31" rx="4" fill="#3a514d"/>
+<text x="46" y="246" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" fill="#edf3ec">Modularis</text>
+<text x="46" y="282" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#c0ed8a">Sestavte stránku</text>
+<rect x="414" y="66" width="372" height="245" rx="14" fill="#1a2829" stroke="#3a514d"/>
+<text x="436" y="98" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#a9bcb5">02</text>
+<rect x="534" y="104" width="124" height="91" rx="8" fill="#111b1c" stroke="#3a514d"/>
+<path d="M546 128 H646" fill="none" stroke="#3a514d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="552" cy="116" r="3" fill="#c0ed8a"/>
+<circle cx="563" cy="116" r="3" fill="#ffba8c"/>
+<rect x="546" y="140" width="47" height="43" rx="4" fill="#c0ed8a"/>
+<path d="M605 148 H645 M605 162 H636 M605 176 H642" fill="none" stroke="#a9bcb5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="436" y="246" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" fill="#edf3ec">Thematis</text>
+<text x="436" y="282" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#c0ed8a">Dejte webu podobu</text>
+<rect x="804" y="66" width="372" height="245" rx="14" fill="#1a2829" stroke="#3a514d"/>
+<text x="826" y="98" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#a9bcb5">03</text>
+<path d="M948 118 V178 M948 148 H1020 V178" fill="none" stroke="#c0ed8a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="948" cy="118" r="9" fill="#ffba8c"/>
+<rect x="934" y="167" width="29" height="26" rx="5" fill="#c0ed8a"/>
+<rect x="1005" y="167" width="29" height="26" rx="5" fill="#c0ed8a"/>
+<text x="826" y="246" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" fill="#edf3ec">Derivis</text>
+<text x="826" y="282" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#c0ed8a">Vytvořte vlastní základ</text>
+</svg>

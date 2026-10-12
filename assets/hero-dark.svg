@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">SVATAS // Human Source Code</title>
+<desc id="desc">Svatopluk Vít, Prague, Czechia. Systems thinking and human perspective: systems, code, words and light.</desc>
+<rect x="1" y="1" width="1198" height="398" rx="20" fill="#111b1c" stroke="#3a514d"/>
+<text x="48" y="48" font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="#a9bcb5">SVATAS / PERSONAL REPOSITORY</text>
+<text x="48" y="158" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="700" fill="#edf3ec">SVATAS</text>
+<text x="52" y="211" font-family="'Courier New', monospace" font-size="31" font-weight="700" fill="#c0ed8a">// HUMAN SOURCE CODE</text>
+<text x="52" y="269" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#edf3ec">Svatopluk Vít</text>
+<text x="52" y="308" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#a9bcb5">Prague / Czechia</text>
+<path d="M48 337 H746" fill="none" stroke="#3a514d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="52" y="370" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#a9bcb5">SYSTEMS THINKING. HUMAN PERSPECTIVE.</text>
+<rect x="811" y="52" width="342" height="287" rx="24" fill="#1a2829" stroke="#3a514d"/>
+<path d="M863 104 h50 v52 L982 196" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="863" cy="104" r="6" fill="#ffba8c"/>
+<path d="M1101 104 h-50 v52 L982 196" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1101" cy="104" r="6" fill="#ffba8c"/>
+<path d="M863 287 h50 v-52 L982 196" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="863" cy="287" r="6" fill="#ffba8c"/>
+<path d="M1101 287 h-50 v-52 L982 196" fill="none" stroke="#3a514d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1101" cy="287" r="6" fill="#ffba8c"/>
+<path d="M982 144 L1034 196 L982 248 L930 196 Z" fill="none" stroke="#c0ed8a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M965 186 L954 196 L965 206 M999 186 L1010 196 L999 206 M987 180 L977 212" fill="none" stroke="#c0ed8a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="846" y="83" font-family="'Courier New', monospace" font-size="16" font-weight="400" fill="#a9bcb5">systems</text>
+<text x="1041" y="83" font-family="'Courier New', monospace" font-size="16" font-weight="400" fill="#a9bcb5">code</text>
+<text x="846" y="317" font-family="'Courier New', monospace" font-size="16" font-weight="400" fill="#a9bcb5">words</text>
+<text x="1041" y="317" font-family="'Courier New', monospace" font-size="16" font-weight="400" fill="#a9bcb5">light</text>
+<text x="853" y="370" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#c0ed8a">curiosity: continuous</text>
+</svg>

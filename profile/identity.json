@@ -1,0 +1,54 @@
+{
+  "name": "Svatopluk Vít",
+  "handle": "svatas",
+  "brand": "SVATAS // Human Source Code",
+  "location": "Prague / Czechia",
+  "links": {
+    "writing": "https://www.root.cz/autori/svatopluk-vit/",
+    "linkedin": "https://www.linkedin.com/in/svatopluk-v%C3%ADt/",
+    "bluesky": "https://bsky.app/profile/svatoplukvit.bsky.social",
+    "gravister": "https://gravister.cz/"
+  },
+  "en": {
+    "intro": "I connect systems, explain technology, and build things people can actually use. **30 years in IT**, a Linux home, and a camera for the moments that refuse to sit still.",
+    "motto": "Complexity is inevitable. Making it everybody else's problem is optional.",
+    "domains_heading": "Four ways I make sense of things",
+    "domains": [
+      ["Architecture & integration", "Enterprise systems, SAP, APIs, EDI and security. I care about what happens between the boxes in a diagram."],
+      ["Linux & open source", "A daily Linux user since 2004. Testing, documentation, Czech translations and the occasional argument with a configuration file."],
+      ["Writing & explaining", "Technology articles, practical guides and talks. Clear language is part of the solution."],
+      ["Photography & perspective", "TeamGym, motion and the human side of technology. Another way to make sense of a complicated scene."]
+    ],
+    "gravister_heading": "Building Gravister",
+    "gravister_intro": "My product family for **Grav 2 + Admin Next / Admin2**. Three tools with distinct jobs, built around a simple idea: **Fast websites. Clean systems. Peace of mind.**",
+    "gravister_note": "These products are in development. This is an introduction to their purpose; public releases and source links will be added when available.",
+    "timeline_heading": "Human Changelog",
+    "timeline_intro": "A few milestones. No semantic versioning for the person.",
+    "writing_heading": "Words outside the repository",
+    "writing_body": "I write in Czech about Linux, open source, practical technology and photography. Explore my [articles on Root.cz]({writing}) for practical guides, reviews and the occasional detour beyond the keyboard.",
+    "connect_heading": "Say hello",
+    "connect_body": "Find me on [LinkedIn]({linkedin}) or [Bluesky]({bluesky}). For the project family, visit [Gravister]({gravister}).",
+    "footer": "Still learning. Still building. The occasional reboot is a feature."
+  },
+  "cs": {
+    "intro": "Propojuji systémy, vysvětluji technologie a stavím věci, které se dají používat. **30 let v IT**, doma Linux a v ruce fotoaparát pro okamžiky, které odmítají chvíli posedět.",
+    "motto": "Složitosti se nevyhnete. Dělat z ní problém všech ostatních je volitelné.",
+    "domains_heading": "Čtyři způsoby, jak dávám věcem smysl",
+    "domains": [
+      ["Architektura a integrace", "Podnikové systémy, SAP, API, EDI a bezpečnost. Zajímá mě, co se děje mezi krabičkami na diagramu."],
+      ["Linux a open source", "Linux používám denně od roku 2004. Testování, dokumentace, české překlady a občasná hádka s konfiguračním souborem."],
+      ["Psaní a vysvětlování", "Odborné články, praktické návody a přednášky. Srozumitelný jazyk je součást řešení."],
+      ["Fotografie a perspektiva", "TeamGym, pohyb a lidská stránka technologií. Další způsob, jak najít smysl ve složité scéně."]
+    ],
+    "gravister_heading": "Tvořím Gravister",
+    "gravister_intro": "Moje produktová rodina pro **Grav 2 + Admin Next / Admin2**. Tři nástroje s jasně rozdělenými úlohami a jednoduchou myšlenkou: **Rychlý web. Čistý systém. Klid v hlavě.**",
+    "gravister_note": "Produkty jsou ve vývoji. Tady představuji jejich účel; veřejná vydání a odkazy na zdrojové kódy doplním, až budou dostupné.",
+    "timeline_heading": "Human Changelog",
+    "timeline_intro": "Pár milníků. Člověk se zatím podle sémantického verzování neřídí.",
+    "writing_heading": "Slova mimo repozitář",
+    "writing_body": "Píšu česky o Linuxu, open source, praktických technologiích a fotografii. V mých [článcích na Root.cz]({writing}) najdete praktické návody, recenze i občasný výlet za hranice klávesnice.",
+    "connect_heading": "Ozvěte se",
+    "connect_body": "Najdete mě na [LinkedIn]({linkedin}) nebo [Bluesky]({bluesky}). Web projektu: [Gravister]({gravister}).",
+    "footer": "Pořád se učím. Pořád tvořím. Občasný restart je vlastnost."
+  }
+}

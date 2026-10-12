@@ -1,0 +1,22 @@
+[
+  {
+    "year": "1987", "kind": "init",
+    "en": {"title": "Atari & BASIC", "detail": "The first computer. Curiosity became a habit."},
+    "cs": {"title": "Atari a BASIC", "detail": "První počítač. Ze zvědavosti se stal návyk."}
+  },
+  {
+    "year": "2004", "kind": "switch",
+    "en": {"title": "Linux at home", "detail": "A different operating system. A lasting way of thinking."},
+    "cs": {"title": "Doma Linux", "detail": "Jiný operační systém. Trvalý způsob přemýšlení."}
+  },
+  {
+    "year": "2008", "kind": "publish",
+    "en": {"title": "Writing on Root.cz", "detail": "Sharing what I learn, in a language people understand."},
+    "cs": {"title": "Články na Root.cz", "detail": "Sdílím, co se učím, jazykem, kterému lidé rozumějí."}
+  },
+  {
+    "year": "2026", "kind": "build",
+    "en": {"title": "Building Gravister", "detail": "Turning experience into tools for Grav 2."},
+    "cs": {"title": "Tvořím Gravister", "detail": "Zkušenosti převádím do nástrojů pro Grav 2."}
+  }
+]
