@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Modularis",
+    "icon": "compose",
+    "en": {"label": "Compose the page", "purpose": "Page composition: arrange modular content into a page."},
+    "cs": {"label": "Sestavte stránku", "purpose": "Kompozice stránek: skládejte modulární obsah do stránky."}
+  },
+  {
+    "name": "Thematis",
+    "icon": "present",
+    "en": {"label": "Shape the presentation", "purpose": "Site and theme presentation: give the website its visual character."},
+    "cs": {"label": "Dejte webu podobu", "purpose": "Prezentace webu a šablony: dejte webu vlastní vizuální charakter."}
+  },
+  {
+    "name": "Derivis",
+    "icon": "derive",
+    "en": {"label": "Make it your own", "purpose": "Derived-theme scaffolding: create a starting structure for a theme derived from an existing one."},
+    "cs": {"label": "Vytvořte vlastní základ", "purpose": "Základ odvozené šablony: vytvořte výchozí strukturu pro šablonu odvozenou z existující."}
+  }
+]

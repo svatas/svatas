@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="780" viewBox="0 0 600 780" role="img" aria-labelledby="title desc" xml:lang="cs">
+<title id="title">SVATAS // Human Source Code</title>
+<desc id="desc">Absurdní servisní list: rozložený obrys člověka a přebytečný šroubek s popiskem Funguje i tak. DOKUMENTACE NEÚPLNÁ. AUTOR STÁLE V PROVOZU.</desc>
+<rect x="1" y="1" width="598" height="778" rx="0" fill="#f3eddc"/>
+<text x="34" y="42" font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="#b93420">SERVISNÍ LIST / LIDSKÝ EXEMPLÁŘ</text>
+<text x="31" y="147" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="900" fill="#171717">SVATAS</text>
+<text x="34" y="185" font-family="'Courier New', monospace" font-size="22" font-weight="400" fill="#b93420">// HUMAN SOURCE CODE</text>
+<path d="M34 212 H566" fill="none" stroke="#171717" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105 57 C76 52 76 10 101 3 C130 -4 150 12 145 31 L156 43 L144 47 L144 64 L124 64" transform="translate(36 233)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 99 L151 99 L171 124 L165 232 L77 232 L80 124 Z" transform="translate(36 233)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M49 111 L30 214 L57 221 L72 117 Z M196 111 L214 214 L188 221 L174 117 Z" transform="translate(36 233)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M93 262 L85 317 L119 317 L123 269 L128 317 L165 317 L156 262 Z" transform="translate(36 233)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 120 L120 142 L147 119" transform="translate(36 233)" fill="none" stroke="#b93420" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M121 73 V90 M121 80 V84 M89 245 H154" transform="translate(36 233)" fill="none" stroke="#b93420" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M293 123 H320 V151 H293 Z M294 134 H257 L241 138 L257 143 H294 M264 130 V147 M274 130 V147 M284 130 V147 M306 124 V150" transform="translate(36 233)" fill="none" stroke="#b93420" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="268" y="474" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#b93420">ZBYL.</text>
+<text x="268" y="500" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#b93420">FUNGUJE I TAK.</text>
+<path d="M34 603 H566" fill="none" stroke="#171717" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="34" y="638" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#b93420">NEROZEBÍRAT.</text>
+<text x="34" y="674" font-family="'Courier New', monospace" font-size="19" font-weight="400" fill="#171717">MAJITEL TO JIŽ PROVEDL.</text>
+<text x="34" y="712" font-family="'Courier New', monospace" font-size="19" font-weight="400" fill="#171717">AUTOR STÁLE V PROVOZU.</text>
+<text x="34" y="755" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#171717">Svatopluk Vít / svatas</text>
+</svg>

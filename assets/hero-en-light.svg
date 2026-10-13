@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">SVATAS // Human Source Code</title>
+<desc id="desc">An absurd service manual: an exploded human outline and a leftover screw labelled Still works. DOCUMENTATION INCOMPLETE. AUTHOR STILL RUNNING.</desc>
+<rect x="1" y="1" width="1198" height="618" rx="0" fill="#f3eddc"/>
+<text x="48" y="42" font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="#b93420">SERVICE MANUAL / HUMAN SPECIMEN</text>
+<text x="45" y="147" font-family="Arial, Helvetica, sans-serif" font-size="126" font-weight="900" fill="#171717">SVATAS</text>
+<text x="48" y="185" font-family="'Courier New', monospace" font-size="22" font-weight="400" fill="#b93420">// HUMAN SOURCE CODE</text>
+<path d="M48 212 H1152" fill="none" stroke="#171717" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105 57 C76 52 76 10 101 3 C130 -4 150 12 145 31 L156 43 L144 47 L144 64 L124 64" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 99 L151 99 L171 124 L165 232 L77 232 L80 124 Z" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M49 111 L30 214 L57 221 L72 117 Z M196 111 L214 214 L188 221 L174 117 Z" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M93 262 L85 317 L119 317 L123 269 L128 317 L165 317 L156 262 Z" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 120 L120 142 L147 119" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M121 73 V90 M121 80 V84 M89 245 H154" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M293 123 H320 V151 H293 Z M294 134 H257 L241 138 L257 143 H294 M264 130 V147 M274 130 V147 M284 130 V147 M306 124 V150" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="284" y="489" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#b93420">LEFT OVER.</text>
+<text x="284" y="515" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#b93420">STILL WORKS.</text>
+<text x="640" y="303" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#171717">30 YEARS IN IT.</text>
+<text x="640" y="355" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#b93420">NO FACTORY RESET.</text>
+<path d="M640 394 H1152" fill="none" stroke="#171717" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="640" y="432" font-family="'Courier New', monospace" font-size="22" font-weight="700" fill="#b93420">DO NOT DISASSEMBLE.</text>
+<text x="640" y="481" font-family="'Courier New', monospace" font-size="21" font-weight="400" fill="#171717">OWNER ALREADY DID.</text>
+<text x="640" y="513" font-family="'Courier New', monospace" font-size="21" font-weight="400" fill="#171717">AUTHOR STILL RUNNING.</text>
+<text x="640" y="574" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#171717">Svatopluk Vít / svatas</text>
+</svg>
