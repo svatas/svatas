@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="610" viewBox="0 0 600 610" role="img" aria-labelledby="title desc" xml:lang="cs">
+<title id="title">SVATAS // Human Source Code</title>
+<desc id="desc">Svatopluk Vít. To zajímavé se děje mezi krabičkami. Z Karviné. Doma v Praze. 30 let propojuji systémy a lidi.</desc>
+<rect x="1" y="1" width="598" height="608" rx="18" fill="#f3f0e8" stroke="#cec9bd"/>
+<text x="34" y="46" font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="#784820">SVATAS // HUMAN SOURCE CODE</text>
+<text x="34" y="160" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#242c33">To zajímavé</text>
+<text x="34" y="245" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#242c33">se děje mezi</text>
+<text x="34" y="330" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#784820">krabičkami.</text>
+<path d="M34 414 H566" fill="none" stroke="#cec9bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="34" y="460" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#242c33">Svatopluk Vít</text>
+<text x="34" y="504" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#535e67">Z Karviné. Doma v Praze.</text>
+<text x="34" y="554" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#242c33">30 let v IT. Pořád zvědavý.</text>
+</svg>

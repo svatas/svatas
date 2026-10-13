@@ -1,0 +1,70 @@
+[
+  {
+    "key": "connect", "open": true,
+    "en": {
+      "title": "A message has to arrive.",
+      "topics": "architecture / integration / security",
+      "body": "APIs, EDI and SAP. I work on the parts that have to agree with each other — including the people who use them. A diagram is a useful start; the interesting questions live in its connections.",
+      "lens": "What happens between the boxes in a diagram?",
+      "links": [{"key": "diagrams", "label": "From my desk: diagrams.net, a tool for making connections visible"}]
+    },
+    "cs": {
+      "title": "Zpráva musí dorazit.",
+      "topics": "architektura / integrace / bezpečnost",
+      "body": "API, EDI a SAP. Pracuji na částech, které se musejí dohodnout — včetně lidí, kteří je používají. Diagram je dobrý začátek; zajímavé otázky se skrývají v jeho spojnicích.",
+      "lens": "Co se děje mezi krabičkami na diagramu?",
+      "links": [{"key": "diagrams", "label": "Z mého stolu: diagrams.net a srozumitelné diagramy"}]
+    }
+  },
+  {
+    "key": "build", "open": false,
+    "en": {
+      "title": "A website should belong to its owner.",
+      "topics": "Linux / open source / Gravister",
+      "body": "Linux at home since 2004. Testing, documentation and Czech translations are part of how I contribute. Now I am building Gravister: tools for composing pages, shaping presentation and creating derived themes in Grav 2.",
+      "lens": "Can you understand, maintain and change what you own?",
+      "links": [{"key": "firmware", "label": "From my desk: firmware and Linux, when updating is not a given"}, {"key": "gravister", "label": "Explore Gravister"}]
+    },
+    "cs": {
+      "title": "Web má patřit svému majiteli.",
+      "topics": "Linux / open source / Gravister",
+      "body": "Linux mám doma od roku 2004. Přispívám testováním, dokumentací a českými překlady. Teď stavím Gravister: nástroje pro sestavování stránek, podobu webu a vytváření odvozených šablon v Gravu 2.",
+      "lens": "Rozumíte tomu, co vlastníte? Dokážete to udržovat a změnit?",
+      "links": [{"key": "firmware", "label": "Z mého stolu: firmware a Linux, když aktualizace není samozřejmostí"}, {"key": "gravister", "label": "Prozkoumejte Gravister"}]
+    }
+  },
+  {
+    "key": "explain", "open": false,
+    "en": {
+      "title": "If it works, explain why.",
+      "topics": "articles / practical guides / talks",
+      "body": "I write in Czech about Linux, photography and practical technology. Understanding a tool is part of using it well. I enjoy finding an explanation that gives the reader something they can actually try.",
+      "lens": "What does the reader need to understand next?",
+      "links": [{"key": "yakuake", "label": "From my desk: Yakuake, a terminal that appears when you need it"}, {"key": "writing", "label": "Read all my articles on Root.cz"}]
+    },
+    "cs": {
+      "title": "Když to funguje, vysvětlete proč.",
+      "topics": "články / praktické návody / přednášky",
+      "body": "Píšu česky o Linuxu, fotografii a praktických technologiích. Rozumět nástroji patří k tomu, jak jej dobře používat. Baví mě hledat vysvětlení, po kterém si čtenář může něco skutečně vyzkoušet.",
+      "lens": "Čemu čtenář potřebuje porozumět v dalším kroku?",
+      "links": [{"key": "yakuake", "label": "Z mého stolu: Yakuake, terminálový světelný meč"}, {"key": "writing", "label": "Přečtěte si všechny moje články na Root.cz"}]
+    }
+  },
+  {
+    "key": "observe", "open": false,
+    "en": {
+      "title": "The subject refuses to stand still.",
+      "topics": "TeamGym / photography / perspective",
+      "body": "I photograph TeamGym. Motion, light and timing create a different kind of technical problem — with a human moment at its centre. The photograph is where the preparation meets something you cannot ask to happen again.",
+      "lens": "Which moment is worth keeping?",
+      "links": [{"key": "teamgym", "label": "From behind the lens: photographing gymnastics competitions"}]
+    },
+    "cs": {
+      "title": "To, co fotíte, odmítá chvíli posedět.",
+      "topics": "TeamGym / fotografie / perspektiva",
+      "body": "Fotím TeamGym. Pohyb, světlo a načasování tvoří jiný druh technického problému — s lidským okamžikem uprostřed. Ve fotografii se potká příprava s něčím, co si už nemůžete nechat zopakovat.",
+      "lens": "Který okamžik stojí za uchování?",
+      "links": [{"key": "teamgym", "label": "Zpoza objektivu: jak probíhá focení gymnastických závodů"}]
+    }
+  }
+]

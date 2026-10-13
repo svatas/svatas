@@ -1,13 +1,17 @@
 # Maintaining Human Source Code
 
 The profile is a small, local publishing pipeline. The English entry point is
-`README.md`; `README.cs.md` is its complete Czech alternative. Ten SVG assets
-provide light and dark artwork. Essential information is also ordinary Markdown.
+`README.md`; `README.cs.md` is its complete Czech alternative. Eight typographic
+SVG assets provide English/Czech, light/dark and desktop/mobile artwork. Essential
+information is also ordinary Markdown. Four native `details` chapters let readers
+choose a thread; a fifth contains the Human Changelog. Only the first thread starts
+open. The profile does not depend on client-side JavaScript or custom README CSS.
 
 ## Change the content
 
-Edit the reviewed public content in `profile/identity.json`, `profile/projects.json`
-or `profile/timeline.json`. JSON keeps the generator dependency-free. Then run:
+Edit the reviewed public content in `profile/identity.json`, `profile/threads.json`,
+`profile/projects.json` or `profile/timeline.json`. JSON keeps the generator
+dependency-free. Then run:
 
 ```sh
 python3 scripts/generate.py
@@ -36,12 +40,16 @@ workflow is retained unchanged but its image is no longer embedded in the README
 Use GitHub's rendered branch README to review both languages, in light and dark
 mode and at a narrow width. Relative asset paths follow the current branch. The
 `picture` element chooses the palette; the light asset is the fallback. Inspect
-the illustrations and check that the text, product purposes and dates agree with
-the equivalent Markdown. No information depends on color or an illustration alone.
+the banners and check that the text, product purposes and dates agree with the
+equivalent Markdown. The first two picture sources select mobile artwork at
+600px or below; later sources select desktop artwork. No information depends on
+color or an illustration alone. The four threads must open independently, with
+their bodies and public article links visible after expansion.
 
 Local validation checks deterministic output, XML structure, accessible SVG titles
-and descriptions, passive SVG elements and local image/language links. It does not
-claim to emulate GitHub's renderer or verify public site availability.
+and descriptions, passive SVG elements, local image/language links, chapter count
+and initial expanded state. It does not claim to emulate GitHub's renderer or
+verify public site availability.
 
 ## Public references
 
@@ -54,4 +62,19 @@ milestone and Gravister purposes were supplied by the owner. The
 support the writing milestone. Dates mark selected milestones, not product releases.
 
 GitHub documents [theme-aware README images](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-and [relative image and link paths](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+and [relative image and link paths](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes),
+as well as [native collapsed sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections).
+
+The four concrete article links were checked on Root.cz and matched to the owner's
+author page on 2026-10-13: diagrams.net, firmware on Linux, Yakuake and photographing
+gymnastics competitions. English labels describe these Czech articles; they do not
+claim an English edition. The text introduces the owner's work and perspective,
+without inventing a client case study, unpublished photograph or release status.
+
+## Current design decision
+
+Iteration 2 follows the approved “between the boxes” concept. A typographic banner
+replaces the schematic hero, product-card and timeline graphics from iteration 1.
+Product purposes and milestones remain in native text. No diamond/slash emblem is
+used. Future photographs or detailed integration stories need actual, explicitly
+public material from the owner. Do not fill those gaps with generated evidence.

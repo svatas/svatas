@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">SVATAS // Human Source Code</title>
+<desc id="desc">Svatopluk Vít. The interesting work happens between the boxes. Karviná born. Prague based. 30 years connecting systems and people.</desc>
+<rect x="1" y="1" width="1198" height="458" rx="18" fill="#f3f0e8" stroke="#cec9bd"/>
+<text x="52" y="51" font-family="'Courier New', monospace" font-size="19" font-weight="400" fill="#784820">SVATAS // HUMAN SOURCE CODE</text>
+<text x="52" y="142" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" fill="#242c33">The interesting work</text>
+<text x="52" y="222" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" fill="#242c33">happens</text>
+<text x="52" y="302" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" fill="#784820">between the boxes.</text>
+<path d="M52 335 H1148" fill="none" stroke="#cec9bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="52" y="385" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#242c33">Svatopluk Vít</text>
+<text x="52" y="427" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#535e67">Karviná born. Prague based.</text>
+<text x="738" y="386" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#535e67">30 years connecting</text>
+<text x="738" y="423" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#535e67">systems and people.</text>
+</svg>
