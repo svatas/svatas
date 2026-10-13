@@ -13,28 +13,13 @@
     "teamgym": "https://www.root.cz/clanky/z-praxe-amaterskeho-fotografa-jak-probiha-foceni-gymnastickych-zavodu/"
   },
   "en": {
-    "headline": "The interesting work happens between the boxes.",
-    "hero_lines": [
-      "The interesting work",
-      "happens",
-      "between the boxes."
-    ],
-    "hero_mobile_lines": [
-      "The interesting",
-      "work happens",
-      "between",
-      "the boxes."
-    ],
+    "headline": "Documentation incomplete. Author still running.",
     "origin": "Karviná born. Prague based.",
-    "experience_lines": [
-      "30 years connecting",
-      "systems and people."
-    ],
     "experience_mobile": "30 years in IT. Still curious.",
-    "intro": "I connect enterprise systems, build tools, explain technology and photograph motion. In all four, I look for the part that makes the whole thing make sense.",
-    "threads_heading": "Follow a thread",
-    "threads_hint": "Four starting points. Choose the one that interests you.",
-    "lens_label": "My lens",
+    "intro": "I have spent **30 years connecting systems**. Some of them still hold a grudge. Architecture, integration and security pay the bills; Linux, writing and photography keep the human part operational.",
+    "threads_heading": "Operating instructions",
+    "threads_hint": "Four ways to put this human to work.",
+    "lens_label": "Diagnostic question",
     "work_language": "My articles are in Czech.",
     "gravister_heading": "Current build: Gravister",
     "gravister_intro": "A website should be something you can understand, maintain and make your own. That idea is taking shape as my product family for **Grav 2 + Admin Next / Admin2**.",
@@ -42,32 +27,19 @@
     "gravister_link": "Explore Gravister",
     "gravister_motto": "Fast websites. Clean systems. Peace of mind.",
     "timeline_summary": "Human Changelog — curiosity since 1987",
-    "timeline_intro": "A few milestones. No semantic versioning for the person.",
+    "timeline_intro": "Selected maintenance records. No factory reset available.",
     "connect_heading": "Continue the conversation",
     "connect_body": "[LinkedIn]({linkedin}) · [Bluesky]({bluesky}) · [All my articles on Root.cz]({writing})",
-    "footer": "Karviná born. Prague based. Curiosity since 1987. Still maintained."
+    "footer": "Documentation incomplete. Author still running."
   },
   "cs": {
-    "headline": "To zajímavé se děje mezi krabičkami.",
-    "hero_lines": [
-      "To zajímavé se děje",
-      "mezi krabičkami."
-    ],
-    "hero_mobile_lines": [
-      "To zajímavé",
-      "se děje mezi",
-      "krabičkami."
-    ],
+    "headline": "Dokumentace neúplná. Autor stále v provozu.",
     "origin": "Z Karviné. Doma v Praze.",
-    "experience_lines": [
-      "30 let propojuji",
-      "systémy a lidi."
-    ],
     "experience_mobile": "30 let v IT. Pořád zvědavý.",
-    "intro": "Propojuji podnikové systémy, stavím nástroje, vysvětluji technologie a fotografuji pohyb. Ve všech čtyřech oblastech hledám to, díky čemu celek začne dávat smysl.",
-    "threads_heading": "Vyberte si svou cestu",
-    "threads_hint": "Čtyři výchozí body. Začněte tím, který vás zajímá.",
-    "lens_label": "Můj pohled",
+    "intro": "**Třicet let propojuji systémy.** Některé mi to dodnes neodpustily. Architektura, integrace a bezpečnost platí účty; Linux, psaní a fotografie udržují v provozu lidskou část.",
+    "threads_heading": "Návod k obsluze",
+    "threads_hint": "Čtyři způsoby, jak tohoto člověka využít.",
+    "lens_label": "Diagnostická otázka",
     "work_language": "Moje články vycházejí česky.",
     "gravister_heading": "Právě tvořím: Gravister",
     "gravister_intro": "Web má být něco, čemu rozumíte, co můžete udržovat a upravit podle sebe. Tahle myšlenka dostává podobu v mé produktové rodině pro **Grav 2 + Admin Next / Admin2**.",
@@ -75,9 +47,9 @@
     "gravister_link": "Prozkoumejte Gravister",
     "gravister_motto": "Rychlý web. Čistý systém. Klid v hlavě.",
     "timeline_summary": "Human Changelog — zvědavost od roku 1987",
-    "timeline_intro": "Pár milníků. Člověk se zatím podle sémantického verzování neřídí.",
+    "timeline_intro": "Vybrané servisní záznamy. Tovární reset není k dispozici.",
     "connect_heading": "Pokračujme v rozhovoru",
     "connect_body": "[LinkedIn]({linkedin}) · [Bluesky]({bluesky}) · [Všechny moje články na Root.cz]({writing})",
-    "footer": "Z Karviné. Doma v Praze. Zvědavý od roku 1987. Pořád v péči."
+    "footer": "Dokumentace neúplná. Autor stále v provozu."
   }
 }

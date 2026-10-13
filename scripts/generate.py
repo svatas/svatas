@@ -15,8 +15,8 @@ from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 PALETTES = {
-    "dark": {"bg": "#171e25", "fg": "#f0f3f6", "muted": "#aab4bf", "line": "#39434c", "accent": "#edb77b"},
-    "light": {"bg": "#f3f0e8", "fg": "#242c33", "muted": "#535e67", "line": "#cec9bd", "accent": "#784820"},
+    "dark": {"bg": "#171717", "fg": "#f3eddc", "muted": "#aab4bf", "line": "#39434c", "accent": "#ff795f"},
+    "light": {"bg": "#f3eddc", "fg": "#171717", "muted": "#535e67", "line": "#cec9bd", "accent": "#b93420"},
 }
 
 
@@ -38,28 +38,46 @@ def svg(width, height, title, description, body, lang):
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc" xml:lang="{lang}">\n'
         f'<title id="title">{escape(title)}</title>\n<desc id="desc">{escape(description)}</desc>\n'
-        + rect(1, 1, width - 2, height - 2, "bg", 18, "line") + "\n" + "\n".join(body) + "\n</svg>\n"
+        + rect(1, 1, width - 2, height - 2, "bg", 0) + "\n" + "\n".join(body) + "\n</svg>\n"
     )
 
 
 def hero(identity, lang, mobile):
-    copy = identity[lang]
-    lines = copy["hero_mobile_lines" if mobile else "hero_lines"]
+    cs = lang == "cs"
+    width, height = (600, 780) if mobile else (1200, 620)
+    x = 34 if mobile else 48
+    label = "SERVISNÍ LIST / LIDSKÝ EXEMPLÁŘ" if cs else "SERVICE MANUAL / HUMAN SPECIMEN"
+    status = "DOKUMENTACE NEÚPLNÁ." if cs else "DOCUMENTATION INCOMPLETE."
+    running = "AUTOR STÁLE V PROVOZU." if cs else "AUTHOR STILL RUNNING."
+    spare = "NÁHRADNÍ DÍL: KÁVA" if cs else "SPARE PART: COFFEE"
+    body = [text(x, 42, label, 17, "accent", mono=True),
+            text(x-3, 147, "SVATAS", 104 if mobile else 126, "fg", 900),
+            text(x, 185, "// HUMAN SOURCE CODE", 22, "accent", mono=True),
+            path(f"M{x} 212 H{width-x}", "fg", 2)]
+    # A deliberately sparse technical drawing, constructed as editable paths.
+    # The mug is the only replacement part. This is a visual joke, not a portrait.
+    ox, oy = (36, 233) if mobile else (52, 248)
+    def line(d, color="fg", weight=3):
+        return f'<path d="{d}" transform="translate({ox} {oy})" fill="none" stroke="{COLORS[color]}" stroke-width="{weight}" stroke-linecap="round" stroke-linejoin="round"/>'
+    body += [line("M105 69 C76 64 76 18 101 10 C130 1 150 21 145 43 L156 55 L144 59 L144 76 L124 76 L124 95"),
+             line("M97 83 L96 95 L51 111 L34 220 L64 225 L80 151 L76 270 L170 270 L165 151 L185 225 L215 220 L198 111 L151 94"),
+             line("M93 276 L86 325 L123 325 L125 290 L131 325 L170 325 L156 276"),
+             line("M94 121 L119 141 L146 117", "accent"),
+             line("M252 140 L252 186 Q252 197 266 197 L302 197 Q316 197 316 184 L316 140 Z M316 150 C347 143 347 180 316 178", "accent", 4),
+             line("M271 124 C258 108 283 107 272 90 M294 124 C281 108 306 107 295 90", "accent", 2),
+             line("M247 210 H327", "accent", 2),
+             line("M245 160 H205 M213 153 L205 160 L213 167", "accent", 2),
+             text(ox+240, oy+246, "01", 17, "accent", mono=True),
+             text(ox+240, oy+269, "COFFEE" if not cs else "KÁVA", 19, "accent", 700, mono=True)]
     if mobile:
-        width, height, x = 600, 610, 34
-        start, step, size = (144, 72, 58) if len(lines) == 4 else (160, 85, 62)
-        body = [text(x, 46, identity["brand"].upper(), 17, "accent", mono=True)]
-        body += [text(x, start + i * step, line, size, "accent" if i == len(lines) - 1 else "fg", 700) for i, line in enumerate(lines)]
-        body += [path("M34 414 H566"), text(x, 460, identity["name"], 28), text(x, 504, copy["origin"], 22, "muted"), text(x, 554, copy["experience_mobile"], 25)]
+        body += [path("M34 603 H566", "fg"), text(34, 638, spare, 20, "accent", 700, mono=True), text(34, 682, status, 19, mono=True), text(34, 712, running, 19, mono=True), text(34, 755, "Svatopluk Vít / svatas", 18)]
     else:
-        width, height, x = 1200, 460, 52
-        start, step, size = (142, 80, 76) if len(lines) == 3 else (179, 95, 80)
-        body = [text(x, 51, identity["brand"].upper(), 19, "accent", mono=True)]
-        body += [text(x, start + i * step, line, size, "accent" if i == len(lines) - 1 else "fg", 700) for i, line in enumerate(lines)]
-        body += [path("M52 335 H1148"), text(x, 385, identity["name"], 26), text(x, 427, copy["origin"], 22, "muted")]
-        body += [text(738, 386 + i * 37, line, 24, "muted") for i, line in enumerate(copy["experience_lines"])]
-    description = f'{identity["name"]}. {copy["headline"]} {copy["origin"]} ' + " ".join(copy["experience_lines"])
-    return svg(width, height, identity["brand"], description, body, lang)
+        body += [text(640, 303, "30 YEARS IN IT." if not cs else "30 LET V IT.", 42, "fg", 700),
+                 text(640, 355, "NO FACTORY RESET." if not cs else "BEZ TOVÁRNÍHO RESETU.", 32, "accent", 700),
+                 path("M640 394 H1152", "fg"), text(640, 432, spare, 22, "accent", 700, mono=True),
+                 text(640, 481, status, 21, mono=True), text(640, 513, running, 21, mono=True), text(640, 574, "Svatopluk Vít / svatas", 22)]
+    desc = "An absurd service manual: a simple human outline and a coffee mug labelled as a spare part. " if not cs else "Absurdní servisní list: jednoduchý obrys člověka a hrnek kávy označený jako náhradní díl. "
+    return svg(width, height, identity["brand"], desc + status + " " + running, body, lang)
 
 
 def picture(name, alt, width=1200):

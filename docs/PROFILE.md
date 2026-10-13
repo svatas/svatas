@@ -73,8 +73,11 @@ without inventing a client case study, unpublished photograph or release status.
 
 ## Current design decision
 
-Iteration 2 follows the approved “between the boxes” concept. A typographic banner
-replaces the schematic hero, product-card and timeline graphics from iteration 1.
-Product purposes and milestones remain in native text. No diamond/slash emblem is
-used. Future photographs or detailed integration stories need actual, explicitly
-public material from the owner. Do not fill those gaps with generated evidence.
+Iteration 3 is an absurd service manual. Two ink colors, oversized typography and
+one deliberately simple vector joke: coffee as a human spare part. All artwork is
+constructed in the repository generator; no generated bitmap, stock imagery,
+portrait or personal photograph is used. Humorous captions are metaphors, not
+claims about client incidents. EN/CS and narrow/light/dark variants remain.
+The owner rejected the previous decorative AI illustration and typographic-only
+concept. No diamond/slash emblem is used. Future photographs need actual public
+material from the owner.

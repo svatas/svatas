@@ -17,3 +17,7 @@
   selected milestones, generated light/dark SVGs and a read-only validation workflow.
 - Replaced the initial ambiguous hero emblem with a rectangular module stack.
 - Published the review branch and PR #1; main remained unchanged.
+
+## 2026-10-13 — Service manual
+
+Replace the banner with a sparse two-color vector service manual and a coffee spare-part joke. Rewrite EN/CS introductions and chapter titles with dry humor. Preserve public product purposes, links and milestones.

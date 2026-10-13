@@ -1,14 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="610" viewBox="0 0 600 610" role="img" aria-labelledby="title desc" xml:lang="en">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="780" viewBox="0 0 600 780" role="img" aria-labelledby="title desc" xml:lang="en">
 <title id="title">SVATAS // Human Source Code</title>
-<desc id="desc">Svatopluk Vít. The interesting work happens between the boxes. Karviná born. Prague based. 30 years connecting systems and people.</desc>
-<rect x="1" y="1" width="598" height="608" rx="18" fill="#f3f0e8" stroke="#cec9bd"/>
-<text x="34" y="46" font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="#784820">SVATAS // HUMAN SOURCE CODE</text>
-<text x="34" y="144" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#242c33">The interesting</text>
-<text x="34" y="216" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#242c33">work happens</text>
-<text x="34" y="288" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#242c33">between</text>
-<text x="34" y="360" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#784820">the boxes.</text>
-<path d="M34 414 H566" fill="none" stroke="#cec9bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="34" y="460" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#242c33">Svatopluk Vít</text>
-<text x="34" y="504" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#535e67">Karviná born. Prague based.</text>
-<text x="34" y="554" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#242c33">30 years in IT. Still curious.</text>
+<desc id="desc">An absurd service manual: a simple human outline and a coffee mug labelled as a spare part. DOCUMENTATION INCOMPLETE. AUTHOR STILL RUNNING.</desc>
+<rect x="1" y="1" width="598" height="778" rx="0" fill="#f3eddc"/>
+<text x="34" y="42" font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="#b93420">SERVICE MANUAL / HUMAN SPECIMEN</text>
+<text x="31" y="147" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="900" fill="#171717">SVATAS</text>
+<text x="34" y="185" font-family="'Courier New', monospace" font-size="22" font-weight="400" fill="#b93420">// HUMAN SOURCE CODE</text>
+<path d="M34 212 H566" fill="none" stroke="#171717" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105 69 C76 64 76 18 101 10 C130 1 150 21 145 43 L156 55 L144 59 L144 76 L124 76 L124 95" transform="translate(36 233)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M97 83 L96 95 L51 111 L34 220 L64 225 L80 151 L76 270 L170 270 L165 151 L185 225 L215 220 L198 111 L151 94" transform="translate(36 233)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M93 276 L86 325 L123 325 L125 290 L131 325 L170 325 L156 276" transform="translate(36 233)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M94 121 L119 141 L146 117" transform="translate(36 233)" fill="none" stroke="#b93420" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M252 140 L252 186 Q252 197 266 197 L302 197 Q316 197 316 184 L316 140 Z M316 150 C347 143 347 180 316 178" transform="translate(36 233)" fill="none" stroke="#b93420" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M271 124 C258 108 283 107 272 90 M294 124 C281 108 306 107 295 90" transform="translate(36 233)" fill="none" stroke="#b93420" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M247 210 H327" transform="translate(36 233)" fill="none" stroke="#b93420" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M245 160 H205 M213 153 L205 160 L213 167" transform="translate(36 233)" fill="none" stroke="#b93420" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="276" y="479" font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="#b93420">01</text>
+<text x="276" y="502" font-family="'Courier New', monospace" font-size="19" font-weight="700" fill="#b93420">COFFEE</text>
+<path d="M34 603 H566" fill="none" stroke="#171717" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="34" y="638" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#b93420">SPARE PART: COFFEE</text>
+<text x="34" y="682" font-family="'Courier New', monospace" font-size="19" font-weight="400" fill="#171717">DOCUMENTATION INCOMPLETE.</text>
+<text x="34" y="712" font-family="'Courier New', monospace" font-size="19" font-weight="400" fill="#171717">AUTHOR STILL RUNNING.</text>
+<text x="34" y="755" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#171717">Svatopluk Vít / svatas</text>
 </svg>

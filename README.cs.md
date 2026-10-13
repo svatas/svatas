@@ -4,7 +4,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/hero-cs-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-cs-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-cs-light.svg">
-  <img alt="SVATAS // Human Source Code — To zajímavé se děje mezi krabičkami." src="assets/hero-cs-light.svg" width="1200">
+  <img alt="SVATAS // Human Source Code — Dokumentace neúplná. Autor stále v provozu." src="assets/hero-cs-light.svg" width="1200">
 </picture>
 
 [English](README.md) · **Česky**
@@ -13,29 +13,29 @@
 
 *30 let v IT. Pořád zvědavý.*
 
-Propojuji podnikové systémy, stavím nástroje, vysvětluji technologie a fotografuji pohyb. Ve všech čtyřech oblastech hledám to, díky čemu celek začne dávat smysl.
+**Třicet let propojuji systémy.** Některé mi to dodnes neodpustily. Architektura, integrace a bezpečnost platí účty; Linux, psaní a fotografie udržují v provozu lidskou část.
 
-## Vyberte si svou cestu
+## Návod k obsluze
 
-Čtyři výchozí body. Začněte tím, který vás zajímá. Moje články vycházejí česky.
+Čtyři způsoby, jak tohoto člověka využít. Moje články vycházejí česky.
 
 <details open>
-<summary><strong>Zpráva musí dorazit.</strong> — architektura / integrace / bezpečnost</summary>
+<summary><strong>Diplomacie pro systémy, které spolu nemluví.</strong> — architektura / integrace / bezpečnost</summary>
 
 API, EDI a SAP. Pracuji na částech, které se musejí dohodnout — včetně lidí, kteří je používají. Diagram je dobrý začátek; zajímavé otázky se skrývají v jeho spojnicích.
 
-**Můj pohled:** Co se děje mezi krabičkami na diagramu?
+**Diagnostická otázka:** Co se děje mezi krabičkami na diagramu?
 
 [Z mého stolu: diagrams.net a srozumitelné diagramy](https://www.root.cz/clanky/diagrams-net-schemata-a-diagramy-levou-zadni-a-multiplatformne/)
 
 </details>
 
 <details>
-<summary><strong>Web má patřit svému majiteli.</strong> — Linux / open source / Gravister</summary>
+<summary><strong>Doma Linux. Tučňák nájem neplatí.</strong> — Linux / open source / Gravister</summary>
 
 Linux mám doma od roku 2004. Přispívám testováním, dokumentací a českými překlady. Teď stavím Gravister: nástroje pro sestavování stránek, podobu webu a vytváření odvozených šablon v Gravu 2.
 
-**Můj pohled:** Rozumíte tomu, co vlastníte? Dokážete to udržovat a změnit?
+**Diagnostická otázka:** Rozumíte tomu, co vlastníte? Dokážete to udržovat a změnit?
 
 [Z mého stolu: firmware a Linux, když aktualizace není samozřejmostí](https://www.root.cz/clanky/firmware-a-linux-kdyz-aktualizace-neni-samozrejmosti/)
 
@@ -44,11 +44,11 @@ Linux mám doma od roku 2004. Přispívám testováním, dokumentací a českým
 </details>
 
 <details>
-<summary><strong>Když to funguje, vysvětlete proč.</strong> — články / praktické návody / přednášky</summary>
+<summary><strong>Návody pro mé budoucí zmatené já.</strong> — články / praktické návody / přednášky</summary>
 
 Píšu česky o Linuxu, fotografii a praktických technologiích. Rozumět nástroji patří k tomu, jak jej dobře používat. Baví mě hledat vysvětlení, po kterém si čtenář může něco skutečně vyzkoušet.
 
-**Můj pohled:** Čemu čtenář potřebuje porozumět v dalším kroku?
+**Diagnostická otázka:** Čemu čtenář potřebuje porozumět v dalším kroku?
 
 [Z mého stolu: Yakuake, terminálový světelný meč](https://www.root.cz/clanky/yakuake-terminalovy-svetelny-mec-ktery-se-vysune-v-pripade-potreby/)
 
@@ -57,11 +57,11 @@ Píšu česky o Linuxu, fotografii a praktických technologiích. Rozumět nást
 </details>
 
 <details>
-<summary><strong>To, co fotíte, odmítá chvíli posedět.</strong> — TeamGym / fotografie / perspektiva</summary>
+<summary><strong>Lidé bez tlačítka pauzy.</strong> — TeamGym / fotografie / perspektiva</summary>
 
 Fotím TeamGym. Pohyb, světlo a načasování tvoří jiný druh technického problému — s lidským okamžikem uprostřed. Ve fotografii se potká příprava s něčím, co si už nemůžete nechat zopakovat.
 
-**Můj pohled:** Který okamžik stojí za uchování?
+**Diagnostická otázka:** Který okamžik stojí za uchování?
 
 [Zpoza objektivu: jak probíhá focení gymnastických závodů](https://www.root.cz/clanky/z-praxe-amaterskeho-fotografa-jak-probiha-foceni-gymnastickych-zavodu/)
 
@@ -84,7 +84,7 @@ Produkty jsou ve vývoji. Tady představuji jejich účel; veřejná vydání a 
 <details>
 <summary><strong>Human Changelog — zvědavost od roku 1987</strong></summary>
 
-Pár milníků. Člověk se zatím podle sémantického verzování neřídí.
+Vybrané servisní záznamy. Tovární reset není k dispozici.
 
 **1987 · Atari a BASIC** — První počítač. Ze zvědavosti se stal návyk.
 
@@ -102,4 +102,4 @@ Pár milníků. Člověk se zatím podle sémantického verzování neřídí.
 
 ---
 
-*Z Karviné. Doma v Praze. Zvědavý od roku 1987. Pořád v péči.*
+*Dokumentace neúplná. Autor stále v provozu.*

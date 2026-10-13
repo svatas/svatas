@@ -4,7 +4,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/hero-en-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-en-light.svg">
-  <img alt="SVATAS // Human Source Code — The interesting work happens between the boxes." src="assets/hero-en-light.svg" width="1200">
+  <img alt="SVATAS // Human Source Code — Documentation incomplete. Author still running." src="assets/hero-en-light.svg" width="1200">
 </picture>
 
 **English** · [Česky](README.cs.md)
@@ -13,29 +13,29 @@
 
 *30 years in IT. Still curious.*
 
-I connect enterprise systems, build tools, explain technology and photograph motion. In all four, I look for the part that makes the whole thing make sense.
+I have spent **30 years connecting systems**. Some of them still hold a grudge. Architecture, integration and security pay the bills; Linux, writing and photography keep the human part operational.
 
-## Follow a thread
+## Operating instructions
 
-Four starting points. Choose the one that interests you. My articles are in Czech.
+Four ways to put this human to work. My articles are in Czech.
 
 <details open>
-<summary><strong>A message has to arrive.</strong> — architecture / integration / security</summary>
+<summary><strong>Diplomacy for systems that refuse to speak.</strong> — architecture / integration / security</summary>
 
 APIs, EDI and SAP. I work on the parts that have to agree with each other — including the people who use them. A diagram is a useful start; the interesting questions live in its connections.
 
-**My lens:** What happens between the boxes in a diagram?
+**Diagnostic question:** What happens between the boxes in a diagram?
 
 [From my desk: diagrams.net, a tool for making connections visible](https://www.root.cz/clanky/diagrams-net-schemata-a-diagramy-levou-zadni-a-multiplatformne/)
 
 </details>
 
 <details>
-<summary><strong>A website should belong to its owner.</strong> — Linux / open source / Gravister</summary>
+<summary><strong>Linux at home. Windows of opportunity elsewhere.</strong> — Linux / open source / Gravister</summary>
 
 Linux at home since 2004. Testing, documentation and Czech translations are part of how I contribute. Now I am building Gravister: tools for composing pages, shaping presentation and creating derived themes in Grav 2.
 
-**My lens:** Can you understand, maintain and change what you own?
+**Diagnostic question:** Can you understand, maintain and change what you own?
 
 [From my desk: firmware and Linux, when updating is not a given](https://www.root.cz/clanky/firmware-a-linux-kdyz-aktualizace-neni-samozrejmosti/)
 
@@ -44,11 +44,11 @@ Linux at home since 2004. Testing, documentation and Czech translations are part
 </details>
 
 <details>
-<summary><strong>If it works, explain why.</strong> — articles / practical guides / talks</summary>
+<summary><strong>Instructions for my future confused self.</strong> — articles / practical guides / talks</summary>
 
 I write in Czech about Linux, photography and practical technology. Understanding a tool is part of using it well. I enjoy finding an explanation that gives the reader something they can actually try.
 
-**My lens:** What does the reader need to understand next?
+**Diagnostic question:** What does the reader need to understand next?
 
 [From my desk: Yakuake, a terminal that appears when you need it](https://www.root.cz/clanky/yakuake-terminalovy-svetelny-mec-ktery-se-vysune-v-pripade-potreby/)
 
@@ -57,11 +57,11 @@ I write in Czech about Linux, photography and practical technology. Understandin
 </details>
 
 <details>
-<summary><strong>The subject refuses to stand still.</strong> — TeamGym / photography / perspective</summary>
+<summary><strong>People with no pause button.</strong> — TeamGym / photography / perspective</summary>
 
 I photograph TeamGym. Motion, light and timing create a different kind of technical problem — with a human moment at its centre. The photograph is where the preparation meets something you cannot ask to happen again.
 
-**My lens:** Which moment is worth keeping?
+**Diagnostic question:** Which moment is worth keeping?
 
 [From behind the lens: photographing gymnastics competitions](https://www.root.cz/clanky/z-praxe-amaterskeho-fotografa-jak-probiha-foceni-gymnastickych-zavodu/)
 
@@ -84,7 +84,7 @@ These products are in development. This is an introduction to their purpose; pub
 <details>
 <summary><strong>Human Changelog — curiosity since 1987</strong></summary>
 
-A few milestones. No semantic versioning for the person.
+Selected maintenance records. No factory reset available.
 
 **1987 · Atari & BASIC** — The first computer. Curiosity became a habit.
 
@@ -102,4 +102,4 @@ A few milestones. No semantic versioning for the person.
 
 ---
 
-*Karviná born. Prague based. Curiosity since 1987. Still maintained.*
+*Documentation incomplete. Author still running.*
