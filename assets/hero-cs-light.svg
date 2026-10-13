@@ -1,26 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc" xml:lang="cs">
 <title id="title">SVATAS // Human Source Code</title>
-<desc id="desc">Absurdní servisní list: jednoduchý obrys člověka a hrnek kávy označený jako náhradní díl. DOKUMENTACE NEÚPLNÁ. AUTOR STÁLE V PROVOZU.</desc>
+<desc id="desc">Absurdní servisní list: rozložený obrys člověka a přebytečný šroubek s popiskem Funguje i tak. DOKUMENTACE NEÚPLNÁ. AUTOR STÁLE V PROVOZU.</desc>
 <rect x="1" y="1" width="1198" height="618" rx="0" fill="#f3eddc"/>
 <text x="48" y="42" font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="#b93420">SERVISNÍ LIST / LIDSKÝ EXEMPLÁŘ</text>
 <text x="45" y="147" font-family="Arial, Helvetica, sans-serif" font-size="126" font-weight="900" fill="#171717">SVATAS</text>
 <text x="48" y="185" font-family="'Courier New', monospace" font-size="22" font-weight="400" fill="#b93420">// HUMAN SOURCE CODE</text>
 <path d="M48 212 H1152" fill="none" stroke="#171717" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M105 69 C76 64 76 18 101 10 C130 1 150 21 145 43 L156 55 L144 59 L144 76 L124 76 L124 95" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M97 83 L96 95 L51 111 L34 220 L64 225 L80 151 L76 270 L170 270 L165 151 L185 225 L215 220 L198 111 L151 94" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M93 276 L86 325 L123 325 L125 290 L131 325 L170 325 L156 276" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M94 121 L119 141 L146 117" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M252 140 L252 186 Q252 197 266 197 L302 197 Q316 197 316 184 L316 140 Z M316 150 C347 143 347 180 316 178" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M271 124 C258 108 283 107 272 90 M294 124 C281 108 306 107 295 90" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M247 210 H327" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M245 160 H205 M213 153 L205 160 L213 167" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="292" y="494" font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="#b93420">01</text>
-<text x="292" y="517" font-family="'Courier New', monospace" font-size="19" font-weight="700" fill="#b93420">KÁVA</text>
+<path d="M105 57 C76 52 76 10 101 3 C130 -4 150 12 145 31 L156 43 L144 47 L144 64 L124 64" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 99 L151 99 L171 124 L165 232 L77 232 L80 124 Z" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M49 111 L30 214 L57 221 L72 117 Z M196 111 L214 214 L188 221 L174 117 Z" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M93 262 L85 317 L119 317 L123 269 L128 317 L165 317 L156 262 Z" transform="translate(52 248)" fill="none" stroke="#171717" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 120 L120 142 L147 119" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M121 73 V90 M121 80 V84 M89 245 H154" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M293 123 H320 V151 H293 Z M294 134 H257 L241 138 L257 143 H294 M264 130 V147 M274 130 V147 M284 130 V147 M306 124 V150" transform="translate(52 248)" fill="none" stroke="#b93420" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="284" y="489" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#b93420">ZBYL.</text>
+<text x="284" y="515" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#b93420">FUNGUJE I TAK.</text>
 <text x="640" y="303" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#171717">30 LET V IT.</text>
 <text x="640" y="355" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#b93420">BEZ TOVÁRNÍHO RESETU.</text>
 <path d="M640 394 H1152" fill="none" stroke="#171717" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="640" y="432" font-family="'Courier New', monospace" font-size="22" font-weight="700" fill="#b93420">NÁHRADNÍ DÍL: KÁVA</text>
-<text x="640" y="481" font-family="'Courier New', monospace" font-size="21" font-weight="400" fill="#171717">DOKUMENTACE NEÚPLNÁ.</text>
+<text x="640" y="432" font-family="'Courier New', monospace" font-size="22" font-weight="700" fill="#b93420">NEROZEBÍRAT.</text>
+<text x="640" y="481" font-family="'Courier New', monospace" font-size="21" font-weight="400" fill="#171717">MAJITEL TO JIŽ PROVEDL.</text>
 <text x="640" y="513" font-family="'Courier New', monospace" font-size="21" font-weight="400" fill="#171717">AUTOR STÁLE V PROVOZU.</text>
 <text x="640" y="574" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#171717">Svatopluk Vít / svatas</text>
 </svg>

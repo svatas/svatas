@@ -74,7 +74,7 @@ without inventing a client case study, unpublished photograph or release status.
 ## Current design decision
 
 Iteration 3 is an absurd service manual. Two ink colors, oversized typography and
-one deliberately simple vector joke: coffee as a human spare part. All artwork is
+one deliberately simple vector joke: an exploded human outline and a leftover screw. All artwork is
 constructed in the repository generator; no generated bitmap, stock imagery,
 portrait or personal photograph is used. Humorous captions are metaphors, not
 claims about client incidents. EN/CS and narrow/light/dark variants remain.

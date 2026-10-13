@@ -21,3 +21,7 @@
 ## 2026-10-13 — Service manual
 
 Replace the banner with a sparse two-color vector service manual and a coffee spare-part joke. Rewrite EN/CS introductions and chapter titles with dry humor. Preserve public product purposes, links and milestones.
+
+### Owner correction — no coffee metaphor
+
+Replace the coffee spare part with an exploded human outline and a leftover screw. Caption: Do not disassemble. Owner already did. EN/CS, light/dark and narrow artwork updated.
